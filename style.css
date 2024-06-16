@@ -269,7 +269,13 @@ body {
     right: 10px;
 }
 
-
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-image: url(img/banner/);
+}
 
 
 
