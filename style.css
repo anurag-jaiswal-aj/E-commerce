@@ -145,6 +145,12 @@ body {
 }
 
 
+.fa-outdent:hover{
+    cursor: pointer;
+}
+
+
+
 /*Home Page*/
 
 #hero {
@@ -152,6 +158,7 @@ body {
     height: 90vh;
     width: 100%;
     background-size: cover;
+    background-position: center;
     background-position: top 25% right 0;
     padding: 0 80px;
     display: flex;
@@ -576,7 +583,10 @@ footer .copyright {
 
 
 
+
 /*Start Media Query */
+
+
 
 @media(max-width:799px) {
     #navbar {
@@ -622,8 +632,7 @@ footer .copyright {
         left: 30px;
         color: #222;
         font-size: 24px;
-        display: block;
-        
+        display: initial;  
     } 
 
     #lg-bag{
