@@ -622,6 +622,8 @@ footer .copyright {
         left: 30px;
         color: #222;
         font-size: 24px;
+        display: block;
+        
     } 
 
     #lg-bag{
