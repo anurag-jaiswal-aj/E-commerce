@@ -1194,7 +1194,7 @@ footer .copyright {
     flex-direction: column;
 }
 
-#contact-width .details{
+#contact-details .details{
     width: 100%;
     margin-bottom: 30px;
 }
@@ -1208,7 +1208,6 @@ footer .copyright {
     padding: 30px 10px;
     flex-wrap: wrap;
 }
-
 
 #form-details form{
     width: 100%;
