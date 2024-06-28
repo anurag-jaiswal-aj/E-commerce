@@ -811,55 +811,55 @@ footer .copyright {
 
 /* --------Contact page------------------  */
 
-#contact-details{
+#contact-details {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-#contact-details .details{
+#contact-details .details {
     width: 40%;
 }
 
 #contact-details .details span,
-#form-details form span{
+#form-details form span {
     font-size: 12px;
 }
 
 #contact-details .details h2,
-#form-details form h2{
+#form-details form h2 {
     font-size: 26px;
     line-height: 35px;
     padding: 20px 0;
 }
 
-#contact-details .details h3{
+#contact-details .details h3 {
     font-size: 16px;
     padding-bottom: 15px;
 }
 
-#contact-details .details li{
+#contact-details .details li {
     list-style-type: none;
     display: flex;
     padding: 10px 0;
 }
 
-#contact-details .details li i{
+#contact-details .details li i {
     font-size: 14px;
     padding-right: 22px;
 }
 
-#contact-details .details li p{
+#contact-details .details li p {
     margin: 0;
     font-size: 14px;
 }
 
-#contact-details .map{
+#contact-details .map {
     width: 55%;
     height: 400px;
 }
 
-#contact-details .map iframe{
+#contact-details .map iframe {
     width: 100%;
     height: 100%;
 }
@@ -872,7 +872,7 @@ footer .copyright {
     border: 1px solid #e1e1e1;
 }
 
-#form-details form{
+#form-details form {
     width: 65%;
     display: flex;
     flex-direction: column;
@@ -881,7 +881,7 @@ footer .copyright {
 
 
 #form-details form input,
-#form-details form textarea{
+#form-details form textarea {
     width: 100%;
     padding: 12px 15px;
     outline: none;
@@ -889,31 +889,31 @@ footer .copyright {
     border: 1px solid #e1e1e1;
 }
 
-#form-details form button{
+#form-details form button {
     background-color: #088178;
     color: #fff;
 }
 
-#form-details .people div{
+#form-details .people div {
     padding-bottom: 25px;
     display: flex;
     align-items: flex-start;
 }
 
-#form-details .people div img{
+#form-details .people div img {
     width: 65px;
     height: 65px;
     object-fit: cover;
     margin-right: 15px;
 }
 
-#form-details .people div p{
+#form-details .people div p {
     margin: 0;
     font-size: 13px;
     line-height: 25px;
 }
 
-#form-details .people div p span{
+#form-details .people div p span {
     display: block;
     font-size: 16px;
     font-weight: 600;
@@ -1040,11 +1040,11 @@ footer .copyright {
         width: 70%;
     }
 
-    #form-details{
+    #form-details {
         padding: 40px;
     }
 
-    #form-details form{
+    #form-details form {
         width: 50%;
     }
 
@@ -1179,7 +1179,7 @@ footer .copyright {
         padding-left: 0px;
     }
 
-    #about-head .video{
+    #about-head .video {
         width: 70%;
         height: 100%;
         margin: 30px auto 0 auto;
@@ -1188,38 +1188,30 @@ footer .copyright {
 
 
 
-/* ---------Contact Page-------- */
+    /* ---------Contact Page-------- */
 
-#contact-details{
-    flex-direction: column;
-}
+    #contact-details {
+        flex-direction: column;
+    }
 
-#contact-details .details{
-    width: 100%;
-    margin-bottom: 30px;
-}
+    #contact-details .details {
+        width: 100%;
+        margin-bottom: 30px;
+    }
 
-#contact-details .map{
-    width: 100%;
-}
+    #contact-details .map {
+        width: 100%;
+    }
 
-#form-details{
-    margin: 10px;
-    padding: 30px 10px;
-    flex-wrap: wrap;
-}
+    #form-details {
+        margin: 10px;
+        padding: 30px 10px;
+        flex-wrap: wrap;
+    }
 
-#form-details form{
-    width: 100%;
-    margin-bottom: 30px;
-}
-
-
-
-
-
+    #form-details form {
+        width: 100%;
+        margin-bottom: 30px;
+    }
 
 }
-
-
-
