@@ -804,6 +804,8 @@ footer .copyright {
     /* --------About page------*/
 
     #about-head {
+        display: flex;
+        flex-direction: column;
         align-items: center;
     }
 
@@ -816,6 +818,11 @@ footer .copyright {
         padding-left: 0px;
     }
 
+    #about-head .video{
+        width: 70%;
+        height: 100%;
+        margin: 30px auto 0 auto;
+    }
 
 }
 
