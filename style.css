@@ -683,92 +683,94 @@ footer .copyright {
         width: 28%;
     }
 
-    #newsletter .form{
-        width: 70%;  
+    #newsletter .form {
+        width: 70%;
     }
-    
+
 }
 
 
 @media (max-width: 477px) {
-    .section-p1{
+    .section-p1 {
         padding: 20px;
     }
-    #header{
+
+    #header {
         padding: 10px 30px;
     }
-    h1{
+
+    h1 {
         font-size: 38px;
     }
 
-    h2{
+    h2 {
         font-size: 32px;
     }
 
-    #hero{
-        padding: 0 20px ;
+    #hero {
+        padding: 0 20px;
         background-position: 55%;
     }
 
-    #feature{
+    #feature {
         justify-content: space-between;
     }
 
-    #feature .fe-box{
+    #feature .fe-box {
         width: 155px;
         margin: 0 0 15px 0;
     }
 
-    #product1 .pro{
+    #product1 .pro {
         width: 100%;
     }
 
-    #banner{
+    #banner {
         height: 40vh;
     }
 
-    #sm-banner .banner-box{
+    #sm-banner .banner-box {
         height: 40vh;
     }
 
-    #sm-banner .banner-box2{
+    #sm-banner .banner-box2 {
         margin-top: 20px;
     }
 
-    #banner3{
+    #banner3 {
         padding: 0 20px;
     }
 
-    #banner3 .banner-box{
+    #banner3 .banner-box {
         width: 100%;
     }
 
-    #newsletter{
+    #newsletter {
         padding: 40px 20px;
     }
 
-    #newsletter .form{
+    #newsletter .form {
         width: 100%;
     }
 
-    footer .copyright{
+    footer .copyright {
         text-align: center;
     }
 
     /* ---single product--- */
 
-    #prodetails{
+    #prodetails {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
 
-    #prodetails .single-pro-image{
-        width:100%;
+    #prodetails .single-pro-image {
+        width: 100%;
         margin-right: 0px;
     }
 
-    #prodetails .single-pro-details{
+    #prodetails .single-pro-details {
         width: 100%;
     }
 
@@ -776,28 +778,43 @@ footer .copyright {
 
     /* ----------blog -page----------- */
 
-    
-    #blog{
+
+    #blog {
         padding: 100px 20px 0 20px;
     }
 
-    #blog .blog-box{
+    #blog .blog-box {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
     }
 
-    #blog .blog-img{
+    #blog .blog-img {
         width: 100%;
         margin-right: 0px;
         margin-bottom: 30px;
     }
 
-    #blog .blog-details{
+    #blog .blog-details {
         width: 100%;
     }
 
 
+
+    /* --------About page------*/
+
+    #about-head {
+        align-items: center;
+    }
+
+    #about-head img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #about-head div {
+        padding-left: 0px;
+    }
 
 
 }
@@ -815,7 +832,7 @@ footer .copyright {
 
 
 
-#page-header{
+#page-header {
     background-image: url(img/banner/b1.jpg);
     width: 100%;
     height: 40vh;
@@ -829,16 +846,16 @@ footer .copyright {
 
 
 #page-header h2,
-#page-header p{
+#page-header p {
     color: #fff;
 }
 
-#pagination{
+#pagination {
     text-align: center;
 
 }
 
-#pagination a{
+#pagination a {
     text-decoration: none;
     background-color: #088178;
     padding: 15px 20px;
@@ -847,7 +864,7 @@ footer .copyright {
     font-weight: 600;
 }
 
-#pagination a i{
+#pagination a i {
     font-size: 16px;
     font-weight: 600;
 }
@@ -865,41 +882,41 @@ footer .copyright {
 }
 
 
-#prodetails .single-pro-image{
+#prodetails .single-pro-image {
     width: 30%;
     margin-right: 50px;
 }
 
-.small-img-group{
+.small-img-group {
     display: flex;
     justify-content: space-between;
 }
 
-.small-img-col{
+.small-img-col {
     flex-basis: 24%;
     cursor: pointer;
 }
 
-#prodetails .single-pro-details{
+#prodetails .single-pro-details {
     width: 50%;
     padding-top: 30px;
 }
 
-#prodetails .single-pro-details h4{
+#prodetails .single-pro-details h4 {
     padding: 40px 0 20px 0;
 }
 
-#prodetails .single-pro-details h2{
+#prodetails .single-pro-details h2 {
     font-size: 26px;
 }
 
-#prodetails .single-pro-details select{
+#prodetails .single-pro-details select {
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
 }
 
-#prodetails .single-pro-details input{
+#prodetails .single-pro-details input {
     width: 50px;
     height: 47px;
     padding-left: 10px;
@@ -907,16 +924,16 @@ footer .copyright {
     margin-right: 10px;
 }
 
-#prodetails .single-pro-details input:focus{
+#prodetails .single-pro-details input:focus {
     outline: none;
 }
 
-#prodetails .single-pro-details button{
+#prodetails .single-pro-details button {
     background: #088178;
     color: #fff;
 }
 
-#prodetails .single-pro-details span{
+#prodetails .single-pro-details span {
     line-height: 25px;
 }
 
@@ -925,15 +942,15 @@ footer .copyright {
 
 /* -------------------Blog Page------------------- */
 
-#page-header.blog-header{
-    background-image: url(img/banner/b19.jpg);    
+#page-header.blog-header {
+    background-image: url(img/banner/b19.jpg);
 }
 
-#blog{
+#blog {
     padding: 150px 150px 0 150px;
 }
 
-#blog .blog-box{
+#blog .blog-box {
     display: flex;
     align-items: center;
     width: 100%;
@@ -941,22 +958,22 @@ footer .copyright {
     padding-bottom: 90px;
 }
 
-#blog .blog-img{
+#blog .blog-img {
     width: 50%;
     margin-right: 40px;
 }
 
-#blog img{
+#blog img {
     width: 100%;
     height: 300px;
     object-fit: cover;
 }
 
-#blog .blog-details{
+#blog .blog-details {
     width: 50%;
 }
 
-#blog .blog-details a{
+#blog .blog-details a {
     text-decoration: none;
     font-size: 11px;
     color: #000;
@@ -964,7 +981,7 @@ footer .copyright {
     position: relative;
 }
 
-#blog .blog-details a::after{
+#blog .blog-details a::after {
     content: "";
     width: 50px;
     height: 1px;
@@ -974,15 +991,15 @@ footer .copyright {
     right: -60px;
 }
 
-#blog .blog-details a:hover{
+#blog .blog-details a:hover {
     color: #088178;
 }
 
-#blog .blog-details a:hover::after{
+#blog .blog-details a:hover::after {
     background-color: #088178;
 }
 
-#blog .blog-box h1{
+#blog .blog-box h1 {
     position: absolute;
     top: -40px;
     left: 0;
@@ -996,7 +1013,7 @@ footer .copyright {
 
 /* --------------------About page---------------------- */
 
-#page-header.about-header{
+#page-header.about-header {
     background-image: url(img/about/banner.png);
 }
 
@@ -1005,26 +1022,26 @@ footer .copyright {
     align-items: center;
 }
 
-#about-head img{
+#about-head img {
     width: 40%;
     height: auto;
 }
 
-#about-head div{
-padding-left: 40px;
+#about-head div {
+    padding-left: 40px;
 }
 
-#about-app{
+#about-app {
     text-align: center;
 }
 
-#about-app .video{
+#about-app .video {
     width: 70%;
     height: 100%;
     margin: 30px auto 0 auto;
 }
 
-#about-app .video video{
+#about-app .video video {
     width: 100%;
     height: 100%;
     border-radius: 20px;
