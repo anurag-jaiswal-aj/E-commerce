@@ -37,3 +37,13 @@ Enhancing the shopping cart functionality with more features like user authentic
 
 Contributing:
 Feel free to fork this project and contribute! Any improvements or suggestions are welcome.
+
+Screenshot:
+![Screenshot 2024-07-01 232143](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/00d4b409-44dc-4b8f-bebc-38e8eff8bcbb)
+![Screenshot 2024-07-01 232324](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/344417bf-edef-40df-936a-1027d89c0979)
+![Screenshot 2024-07-01 232418](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/b2913db3-39ff-4136-b438-9a9aa71a67b8)
+![Screenshot 2024-07-01 232612](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/0bd457f2-78be-425d-b740-37f7c4f99b1b)
+![Screenshot 2024-07-01 232653](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/583519a0-244f-4b00-9a80-81175902a7c5)
+![Screenshot 2024-07-01 232745](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/d10c6fad-5683-4dbb-85c0-767a8c2afeb9)
+![Screenshot 2024-07-01 232826](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/39234b44-8ad3-40ee-b27e-156cda2bae53)
+![Screenshot 2024-07-01 232933](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/e5ccf640-e579-4a41-8114-969039e18f8c)
