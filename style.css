@@ -153,6 +153,7 @@ body {
 
 /*Home Page*/
 
+
 #hero {
     background-image: url(img/hero4.png);
     height: 90vh;
@@ -448,13 +449,13 @@ body {
 }
 
 #banner3 h2 {
-    color: #fff;
+    color: #ffffff;
     font-weight: 900;
     font-size: 22px;
 }
 
 #banner3 h3 {
-    color: #ec544e;
+    color: #1c1212;
     font-weight: 800;
     font-size: 15px;
 }
