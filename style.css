@@ -1044,6 +1044,113 @@ footer .copyright {
 
 
 
+/* ----------------Payment Page------------------------ */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #1f242d;
+    padding: 25px;
+}
+
+.container form {
+    width: 700px;
+    padding: 40px 40px 20px 40px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+
+form .row {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.row .column {
+    flex: 1 1 250px;
+}
+
+.column .title {
+    font-size: 20px;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.column .input-box {
+    margin: 15px 0;
+}
+
+.input-box span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+.column .flex {
+    display: flex;
+    gap: 15px;
+}
+
+.flex .input-box {
+    margin-top: 5px;
+}
+
+.input-box img {
+    height: 30px;
+    margin-top: 4px;
+    filter: drop-shadow(0 0 1px #000);
+}
+
+.cancelPayment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0 0 0;
+}
+
+.cancel{
+    color: #000;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+
+form .btn {
+    width: 100%;
+    padding: 12px;
+    background: #8175d3;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    font-size: 17px;
+    color: #fff;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+form .btn:hover {
+    background-color: #6a5acd;
+}
+
+
+
+
+
+
+
 /*Start Media Query */
 
 
@@ -1337,5 +1444,3 @@ footer .copyright {
         padding: 20px;
     }
 }
-
-
