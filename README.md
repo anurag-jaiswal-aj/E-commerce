@@ -47,3 +47,6 @@ Screenshot:
 ![Screenshot 2024-07-01 232745](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/d10c6fad-5683-4dbb-85c0-767a8c2afeb9)
 ![Screenshot 2024-07-01 232826](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/39234b44-8ad3-40ee-b27e-156cda2bae53)
 ![Screenshot 2024-07-01 232933](https://github.com/anurag-jaiswal-aj/E-commerce/assets/144160916/e5ccf640-e579-4a41-8114-969039e18f8c)
+![Screenshot 2024-10-11 162451](https://github.com/user-attachments/assets/da34b976-f1eb-4a1a-a275-8e4f5968bf21)
+
+
